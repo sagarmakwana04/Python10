@@ -1,4 +1,4 @@
-# to check time taken in function and list comprehension
+# to check time taken in list comprehension
 
 import time
 
