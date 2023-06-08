@@ -6,5 +6,5 @@ languages such as C++ or Java.
 Python supports multiple programming paradigms, 
 including object-oriented, imperative and functional programming or procedural styles. 
 It features a dynamic type system and automatic memory management and has a large and comprehensive standard library.
-The best way we learn anything is by practice and exercise questions. We  have started 
+The best way we learn anything is by practice and exercise questions. We have started 
 this section for those (beginner to intermediate) who are familiar with Python.
