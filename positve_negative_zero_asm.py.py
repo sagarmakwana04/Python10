@@ -1,11 +1,10 @@
 # Programme to chech number is positive, negative or zero
 
-num = int(input("Enter num : "))
+n=int(input("Enter Number : "))
 
-if num>0:
-    print("Number is (+ve)")
-elif num==0:
-    print("Number is 0")
+if n>0:
+    print(f"{n} is Positive")
+elif n==0:
+    print(f"Number is {n}")
 else:
-    print("Number is (-ve)")
-    
+    print(f"{n} is Negative")
