@@ -1,4 +1,4 @@
-# Python function that takes two lists and returns true if they have at least one common member
+# Python function that takes two lists and returns true if they have at least one common element
 
 def commonData (l1,l2):
     result = False
