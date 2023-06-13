@@ -1,15 +1,13 @@
 # What is file function ?
 '''A file is a container in computer storage devices used for storing data.
-
-When we want to read from or write to a file, we need to open it first. When we are done, it needs to be closed so that the resources that are tied with the file are freed.
-
+When we want to read from or write to a file, we need to open it first. When we are done, 
+it needs to be closed so that the resources that are tied with the file are freed.
 Hence, in Python, a file operation takes place in the following order:
 
 Open a file
 Read or write (perform operation)
 Close the file
 '''
-
 
 # What is keyword to create and write in files
 '''There are two things we need to remember while writing to a file.
