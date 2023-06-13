@@ -5,4 +5,4 @@ item_list = [{'item': 'item1', 'amount': 400}, {'item': 'item2', 'amount': 300},
 result = Counter()
 for d in item_list:
     result[d['item']] += d['amount']
-print(result) 
+print(result)
