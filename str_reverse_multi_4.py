@@ -1,10 +1,10 @@
 # Python program to print reverse string if length of string is multiple of four
 
-def reverse_string(s):
+def reverse_str(s):
     if len(s)%4==0:
         return s[::-1]
     else:
         return s
-    
-text=input("Enter String : ")
-print(reverse_string(text))
+
+print(reverse_str('help'))
+print(reverse_str('help me'))
