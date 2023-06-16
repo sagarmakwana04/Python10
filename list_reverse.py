@@ -6,4 +6,4 @@ specified during a list declaration."""
 
 # reverse a list
 l=[1,2,4,0,"Python",True,42,9732,"django",432]
-print(l[::-1])
+print(l[::-1]) 
