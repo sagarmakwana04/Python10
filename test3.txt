@@ -1,7 +1,5 @@
-Greeen 
-Red 
-Blue 
-White 
-Black 
 Orange 
-Yellow 
+Apple 
+Banana 
+Mango 
+Watermalon 

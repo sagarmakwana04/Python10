@@ -3,4 +3,5 @@
 base=float(input("Enter Base Value : "))
 height=float(input("Enter Height Value : "))
 area=base*height
+
 print(area)

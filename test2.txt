@@ -1,2 +1,2 @@
 Programming is Fun.
-Python for beginners
+Python Programming for beginners
