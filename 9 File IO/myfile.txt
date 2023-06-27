@@ -1,0 +1,3 @@
+Welcome to File IO in Python!
+harry bhai python course is greatHey i am inside with
+Hey i am inside with
