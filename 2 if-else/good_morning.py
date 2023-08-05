@@ -12,4 +12,4 @@ print(timestamp)
 if (timestamp<12):
     print("Good Morning")
 else:
-    print("nothing")
+    print("Nothing")

@@ -1,4 +1,4 @@
-# To return true if two int are equal, sum, diffe
+# To return true if two int are equal, sum, diff of 5
 
 a=int(input("Enter a : "))
 b=int(input("Enter b : "))

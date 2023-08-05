@@ -1,7 +1,7 @@
 # Program of tkinter demo, 1.create window, 2.Label,place 3.Entry, 4.Button, 5.def button clicked command at button
 
 from tkinter import *
-import mysql.connector
+# import mysql.connector
 import tkinter.messagebox as msg
 
 # create window
