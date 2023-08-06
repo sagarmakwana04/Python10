@@ -85,3 +85,12 @@
 #     print('it is not a vowel letter')
 
 
+# n=int(input('Enter N : '))
+
+# a,b=0,1
+
+# while b<n:
+#     print(b,end=" ")
+#     a,b=b, a+b
+
+
