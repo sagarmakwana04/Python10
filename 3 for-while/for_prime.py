@@ -11,4 +11,3 @@ if n%2!=0:
         print("Is Prime")
 else:
     print("Is Not Prime")
-    
